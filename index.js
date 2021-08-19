@@ -1,0 +1,1 @@
+document.write('GLORY PRAISE EMMANUEL');
